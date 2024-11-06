@@ -11,7 +11,7 @@ Jasper Jakob Uisk <br>
 Raiko Pära 
 
 <h1>Esimene päev 06.11.24</h1>
-Tiimi tutvustus. Mõtlesime välja, mis bändi valida. Valituks sai Linkin Park. Edasi tegime plaani,milline leht välja peaks nägema ja mis seal olema peaks. Küsisime ka chat GPT käest, mis võiks olla need 4 osa, millest leht koosneks.<br>
+Tiimi tutvustus. Mõtlesime välja, mis bändi valida. Valituks sai Linkin Park. Edasi tegime plaani,milline leht välja peaks nägema ja mis seal olema peaks. Küsisime ka chat GPT käest, mis võiks olla need 4 osa, millest leht koosneks. <br>
 Jagasime ülesanded: <br>
 Kristo-Steven ja Mardo juhendavad, aitavad. <br>
 Silvio teeb lehel tuuri osa. <br>
