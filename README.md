@@ -1,3 +1,4 @@
+
 # Bandiveebileht
 
 Liikmed: <br>
@@ -12,12 +13,14 @@ Raiko Pära
 
 <h1>Esimene päev 06.11.24</h1>
 Tiimi tutvustus. Mõtlesime välja, mis bändi valida. Valituks sai Linkin Park. Edasi tegime plaani,milline leht välja peaks nägema ja mis seal olema peaks. Küsisime ka chat GPT käest, mis võiks olla need 4 osa, millest leht koosneks. <br>
+ <br>
 Jagasime ülesanded: <br>
 Kristo-Steven ja Mardo juhendavad, aitavad. <br>
 Silvio teeb lehel tuuri osa. <br>
 Marelle ja Hendrik teevad muusika osa. <br>
 Jasper Jakob teeb merch'i osa. <br>
 Raiko teeb home'i osa. <br>
+Kõik tegid oma osa Figmat.
 <h1>Teine päev 07.11.24</h1> <br>
 <h1>Kolmas päev 08.11.24</h1> <br>
 
