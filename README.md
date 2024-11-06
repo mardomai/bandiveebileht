@@ -1,4 +1,4 @@
-# bandiveebileht
+# Bandiveebileht
 
 Liikmed: <br>
 Kristo-Steven Altmäe <br>
