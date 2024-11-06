@@ -1,11 +1,11 @@
 # bandiveebileht
 
-Liikmed:
-Kristo-Steven Altmäe
-Mardo Mai
-Volodymyr Zhuliev
-Silvio Tsurkan
-Marelle Palm
-Hendrik Aksalu
-Jasper Jakob Uisk
-Raiko Pära
+Liikmed: <br>
+Kristo-Steven Altmäe <br>
+Mardo Mai <br>
+Volodymyr Zhuliev <br>
+Silvio Tsurkan <br>
+Marelle Palm <br>
+Hendrik Aksalu <br>
+Jasper Jakob Uisk <br>
+Raiko Pära 
