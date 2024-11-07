@@ -18,7 +18,9 @@ a {
     font-weight: 500;
     color: white;
     font-size: 20px;
-    padding-left: 120px;
+    padding-left: 140px;
+    padding-right: 80px;
+
 }
 
 body {
@@ -44,7 +46,6 @@ body {
     border-left: 2px rgb(99, 99, 99) solid;
     padding-top: 10px;
     padding-bottom: 10px;
-
 }
 
 .musicbutton {
@@ -77,10 +78,21 @@ body {
     gap: 16px;
 }
 
-.merchsection1 {
+.merchsection1header {
     color: white;
     font-size: 35px;
     font-weight: 600;
+}
+
+.merchsection1 {
+    background: linear-gradient( rgb(18, 43, 45) 12%, rgba(7,40,53,1) 100%);
+    width: fit-content;
+    height: fit-content;
+    padding: 5px;
+    border: none;
+    border-radius: 18px;
+    margin-top: 60px;
+    display: flex;
 }
 
 .men {
@@ -88,4 +100,11 @@ body {
     padding-top: 70px;
     padding-bottom: 30px;
     border-bottom: 2px rgb(99, 99, 99) solid;
+}
+
+.merchboxtext {
+    font-family: inter;
+    color: white;
+    font-size: 22px;
+    text-align: center;
 }

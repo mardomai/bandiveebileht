@@ -6,6 +6,7 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
+    overflow-x: hidden;
 }
 
 .content {
@@ -14,7 +15,6 @@ body {
     margin: 50px auto;
     padding: 20px;
 }
-
 
 
 .image-blurry-border {
@@ -63,6 +63,7 @@ p {
     .quote {
         font-size: 1em;
     }
+}
 
 * {
     padding: 0;
@@ -128,16 +129,4 @@ body {
     border-left: 2px rgb(99, 99, 99) solid;
     padding-top: 10px;
     padding-bottom: 10px;
-}
-
-.collections {
-    text-align: center;
-    display: flex;
-    justify-content: center;
-    margin-top: 50px;
-    color: white;
-    font-weight: 500;
-    font-size: 30px;
-    flex-direction: column;
-}
 }
