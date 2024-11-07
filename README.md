@@ -41,29 +41,29 @@ Panime rollid paika, et kes teeb mida. Hendrik teeb home ja music pagei, Marelle
 2.Üks pehme oskus, mida õppisin ja endas arendasin. <br>
 3. Üks tehniline oskus, mida õppisin ja endas arendasin. <br> <br>
 <b>Vastab Kristo-Steven:</b><br>
-1.    <br>
-2.    <br>
-3.   <br>
+1. Oleks tahtnud veidi rohkem koodi kirjutada   <br>
+2. Suhtlemis oskus ja tiimi juhtimine   <br>
+3. Githubis projekti haldamine  <br>
 <b>Vastab Mardo: </b><br>
-1. <br>
-2. <br>
-3.<br> 
+1. Ei, ma arvan mul oli väga hea roll meeskonnas. Sain aidata teisi ja meelde tuletada vanilla HTMLi ja CSSi.<br>
+2. Ma ei tohi nii palju ropendada (kuigi Jasper ajab väga vihaseks)<br>
+3.Et teha mobile view esimese asjana<br> 
 <b>Vastab Silvio:</b> <br>
 1. <br>
 2. <br>
 3. <br>
 <b>Vastab Marelle:</b> <br>
-1. <br>
-2. <br>
-3. <br>
+1. Ei, sain ülesanded, mis mulle meeldisid. <br>
+2. Õppisin olema meeskonnaliige. Ja samas ka julgem. Tegin tahvlile joonise ja kirjutasin, et kes mida teeks. <br>
+3. Õppisin kasutama HMTL ja CCS'i koos. Natuke sai jälle githubi ka <br>
 <b>Vastab Hendrik:</b> <br>
 1. <br>
 2. <br>
 3. <br>
 <b>Vastab Jasper Jakob:</b> <br>
-1. <br>
-2. <br>
-3. <br>
+1. Ei, sest minu ülesanne oli minu võimu piiris. Ma sain rahulikult harjutada ja õppida uusi asju juurde. <br>
+2. Õppisin aja haldamist, sain aru, et prioriteedid peavad olema kohe alguses õiged, siis edeneb töö kõige paremini. + peaks vähem ropendama (mardo oli probleem) <br>
+3. Tehniline oskus, mida endas arendasin, oli see, kuidas kiiresti, mugavalt ja töökorraselt uut koodi ja css-i kirjutada. See oli väga hea märk ja piir, kus ma nägin, kuidas ma seda teemat haldan. Samuti sain ampsu githubiga tegelemisest.  <br>
 <b>Vastab Raiko:</b> <br>
 1. <br>
 2. <br>

@@ -110,6 +110,7 @@ body {
 footer {
     height: 70px;
     background: black;
+    margin-top: 80px;
 }
 
 .footertext {
@@ -124,6 +125,6 @@ footer {
 .merchbox1 {
     background: linear-gradient( rgb(18, 43, 45) 12%, rgba(7,40,53,1) 100%);
     border: solid 2px rgb(80, 79, 79);
-    border-radius: 18px;
+    border-radius: 5px;
     padding: 10px;
 }
