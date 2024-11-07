@@ -4,10 +4,11 @@
 }
 
 h2 {
-    color: black;
+    color: rgb(236, 230, 230);
     font-weight: bold;
-    background-color: #b66b6b;
-    border-color: #B66B6B;
+    background-color: #333333;
+    border-color: #333333;
+    border-radius: 25px;
     text-align: center;
     padding: 30px 120px 30px 120px;
     width: 70%;
