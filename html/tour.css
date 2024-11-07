@@ -77,7 +77,9 @@ button{
     margin: 10px;
     padding: 15px;
     width: 700px;
-    border-radius: 12px
+    border-radius: 12px;
+    float: right;
+
   }
   .thrid{
     background-color: #C182B8;
@@ -105,9 +107,4 @@ button{
     font-size: 20px;
     font-weight: bold;
    
-  }
-  .content{
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
   }
