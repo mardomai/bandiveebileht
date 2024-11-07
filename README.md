@@ -45,9 +45,9 @@ Panime rollid paika, et kes teeb mida. Hendrik teeb home ja music pagei, Marelle
 2.    <br>
 3.   <br>
 <b>Vastab Mardo: </b><br>
-1. <br>
-2. <br>
-3.<br> 
+1. Ei, ma arvan mul oli väga hea roll meeskonnas. Sain aidata teisi ja meelde tuletada vanilla HTMLi ja CSSi.<br>
+2. Ma ei tohi nii palju ropendada (kuigi Jasper ajab väga vihaseks)<br>
+3.Et teha mobile view esimese asjana<br> 
 <b>Vastab Silvio:</b> <br>
 1. <br>
 2. <br>
