@@ -39,7 +39,9 @@ a {
     font-weight: 500;
     color: white;
     font-size: 20px;
-    padding-left: 120px;
+    padding-left: 140px;
+    padding-right: 80px;
+
 }
 
 .logo {

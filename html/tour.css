@@ -37,7 +37,7 @@ button{
   }
   
   .flex-container > div {
-    background-color: ;
+    background-color: #333333;
     margin: 10px;
     padding: 20px 10px 20px 10px;
     font-size: 15px;
@@ -124,11 +124,13 @@ header {
 }
 
 a {
-    text-decoration: none;
-    font-weight: 500;
-    color: white;
-    font-size: 20px;
-    padding-left: 120px;
+  text-decoration: none;
+  font-weight: 500;
+  color: white;
+  font-size: 20px;
+  padding-left: 140px;
+  padding-right: 80px;
+
 }
 
 body {
