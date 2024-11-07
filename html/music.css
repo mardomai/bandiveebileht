@@ -4,10 +4,11 @@
 }
 
 h2 {
-    color: white;
+    color: rgb(236, 230, 230);
     font-weight: bold;
-    background-color: #333;
-    border-color: #333;
+    background-color: #333333;
+    border-color: #333333;
+    border-radius: 25px;
     text-align: center;
     padding: 30px 120px 30px 120px;
     width: 70%;
@@ -38,7 +39,9 @@ a {
     font-weight: 500;
     color: white;
     font-size: 20px;
-    padding-left: 120px;
+    padding-left: 140px;
+    padding-right: 80px;
+
 }
 
 .logo {
