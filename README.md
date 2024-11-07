@@ -30,6 +30,10 @@ Kõik alustasid oma osa koodi kirjutamisega, Mardo, Steven ja Silvio aitavad kui
 
 Päeva alguses me vaatasime üle figma ja tegime sinna muudatusi (värv ja gradient teistsuguseks), siis me alustasime koodimist.
 Panime rollid paika, et kes teeb mida. Hendrik teeb home ja music pagei, Marelle teeb tour ja music pagei, Jasper teeb headeri ja merch pagei.
+
+![20241107_110606](https://github.com/user-attachments/assets/564d4176-94f6-4dad-96b7-d5f6a80fc436)
+
+
 <h1>Kolmas päev 08.11.24</h1> <br>
 
 <h2>Küsimused</h2>
