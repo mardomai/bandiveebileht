@@ -4,7 +4,7 @@
 }
 
 header {
-    height: 72px;
+    height: 92px;
     background-color: black;
     align-items: center;
     display: flex;
@@ -18,15 +18,16 @@ a {
 }
 
 body {
-    background: rgb(138,120,120);
-    background: radial-gradient(circle, rgba(138,120,120,1) 20%, rgba(17,17,17,1) 100%);
+    background: rgb(12,29,30);
+    background: linear-gradient(90deg, rgba(12,29,30,1) 12%, rgba(7,40,53,1) 100%);
     font-family: inter;
 }
 
 .logo {
     position: absolute;
     top: 1.5px;
-    left: 3%;
+    left: 3.25%;
+    padding: 10px;
 }
 
 .headbutton {
@@ -36,26 +37,45 @@ body {
 
 .homebutton {
     border-left: 2px rgb(99, 99, 99) solid;
-    padding-left: 130px;
-    padding-right: 130px;
-    margin-left: 180px;
+    padding-left: 135px;
+    padding-right: 135px;
+    margin-left: 200px;
+    padding-top: 10px;
+        padding-bottom: 10px;
+
 }
 
 .musicbutton {
     border-left: 2px rgb(99, 99, 99) solid;
-    padding-left: 130px;
-    padding-right: 130px;
+    padding-left: 135px;
+    padding-right: 135px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .tourbutton {
     border-left: 2px rgb(99, 99, 99) solid;
-    padding-left: 130px;
-    padding-right: 130px;
+    padding-left: 135px;
+    padding-right: 135px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .merchbutton {
     border-left: 2px rgb(99, 99, 99) solid;
-    padding-left: 130px;
-    padding-right: 130px;
+    padding-left: 135px;
+    padding-right: 135px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
+.collections {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    color: white;
+    font-weight: 500;
+    font-size: 30px;
+    flex-direction: column;
+}
