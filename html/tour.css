@@ -1,25 +1,113 @@
 body{
-    background-image: radial-gradient(#8a7878, #111111);
+    background: rgb(138,120,120);
+background: radial-gradient(circle, rgba(138,120,120,1) 14%, rgba(17,17,17,1) 100%);
     font-family: 'Inter';
+    padding: 40px;
 }
-div{
-    background-color: #333;
-    padding: 20px 20px 20px 20px;
-    width: 35%;
-    color: white;
-}
+
 .vertical {
     margin-left: 300px;
-    border-left: 6px solid #7777;
-    height: 100px;
+    border-left: 2px solid #7777;
+    height: 80px;
 }
-button{
-    background-color:#515151 ;
-    border: ;
-    border-color: white;
-    color: white ;
-    padding: 10px 40px 10px 40px ;
-    text-align: ;
-    
+
+.buybutton{
+display: flex;
+justify-content: center;
 
 }
+
+button{
+    background-color:#515151 ;
+    border: 1;
+    border-color: white;
+    color: white ;
+    border-radius: 12px;
+    width: 100px;
+    height: 50px;
+}
+
+.flex-container {
+    display: flex;
+    background-color: #333333;
+    color: white;
+    margin: 10px;
+    width: 600px;
+    border-radius: 12px
+  }
+  
+  .flex-container > div {
+    background-color: ;
+    margin: 10px;
+    padding: 20px 10px 20px 10px;
+    font-size: 15px;
+  }
+  .number{
+    color: #FF0000
+  }
+  .fire{
+    color: orange
+  }
+  .dollar{
+    color: lightgreen
+  }
+  .usa{
+  border-radius: 4px;
+  padding: 5px;
+  width: 15px;
+  }
+  .mark{
+    border-radius: 0px;
+  padding: 0px;
+  width: 20px;
+  }
+  .park{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+  h1{
+    color:white;
+  }
+  .second{
+    direction: column;
+    background-color: #333333;
+    color: white;
+    margin: 10px;
+    padding: 15px;
+    width: 700px;
+    border-radius: 12px
+  }
+  .thrid{
+    background-color: #C182B8;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    width: 600px;
+    border-radius: 12px
+  }
+  .zero{
+    display: block;
+    margin-right: auto;
+    width: 50%;
+   border-radius: 15px;
+   padding-top: 10px;
+   padding-left: 10px;
+  }
+  .playbutton{
+  padding: 5px;
+  width: 25px;
+  margin-left: auto;
+  display: block;
+  }
+  .head{
+    font-size: 20px;
+    font-weight: bold;
+   
+  }
+  .content{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
