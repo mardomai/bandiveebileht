@@ -11,6 +11,8 @@ Hendrik Aksalu <br>
 Jasper Jakob Uisk <br>
 Raiko Pära 
 
+Figma -  https://www.figma.com/design/sK47yGM6rhOIZnFSgpu2gT/Untitled?node-id=0-1&node-type=canvas&t=AMQceGrlOt44uG5w-0
+
 <h1>Esimene päev 06.11.24</h1>
 Tiimi tutvustus. Mõtlesime välja, mis bändi valida. Valituks sai Linkin Park. Edasi tegime plaani,milline leht välja peaks nägema ja mis seal olema peaks. Küsisime ka chat GPT käest, mis võiks olla need 4 osa, millest leht koosneks. <br>
  <br>
@@ -25,6 +27,7 @@ Jasper Jakob teeb merch'i osa. <br>
 Raiko teeb home'i osa. <br>
 Kõik tegid oma osa Figmat.
 <h1>Teine päev 07.11.24</h1> <br>
+Kõik alustasid oma osa koodi kirjutamisega, Mardo aitab kui on küsimusi.
 <h1>Kolmas päev 08.11.24</h1> <br>
 
 <h2>Küsimused</h2>
