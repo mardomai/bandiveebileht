@@ -57,9 +57,9 @@ Panime rollid paika, et kes teeb mida. Hendrik teeb home ja music pagei, Marelle
 2. Õppisin olema meeskonnaliige. Ja samas ka julgem. Tegin tahvlile joonise ja kirjutasin, et kes mida teeks. <br>
 3. Õppisin kasutama HMTL ja CCS'i koos. Natuke sai jälle githubi ka <br>
 <b>Vastab Hendrik:</b> <br>
-1. <br>
-2. <br>
-3. <br>
+1. Sain sellised ülesanded millega olin rahul. <br>
+2. Õppisin rohkem suhtlema ning kaasa mõtlema.
+3. Õppisin githubi kasutama, õppisin CSSi kasutama, samuti sain HTMLis uusi teadmisi. <br>
 <b>Vastab Jasper Jakob:</b> <br>
 1. Ei, sest minu ülesanne oli minu võimu piiris. Ma sain rahulikult harjutada ja õppida uusi asju juurde. <br>
 2. Õppisin aja haldamist, sain aru, et prioriteedid peavad olema kohe alguses õiged, siis edeneb töö kõige paremini. + peaks vähem ropendama (mardo oli probleem) <br>
