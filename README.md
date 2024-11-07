@@ -26,7 +26,7 @@ Jasper Jakob teeb merch'i osa. <br>
 Raiko teeb home'i osa. <br>
 Kõik tegid oma osa Figmat.
 <h1>Teine päev 07.11.24</h1> <br>
-Kõik alustasid oma osa koodi kirjutamisega, Mardo aitab kui on küsimusi.
+Kõik alustasid oma osa koodi kirjutamisega, Mardo ja Steven aitavad kui on küsimusi.
 <h1>Kolmas päev 08.11.24</h1> <br>
 
 <h2>Küsimused</h2>
