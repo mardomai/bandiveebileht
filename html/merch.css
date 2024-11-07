@@ -26,7 +26,7 @@ body {
 .logo {
     position: absolute;
     top: 1.5px;
-    left: 3.5%;
+    left: 3.25%;
     padding: 10px;
 }
 
@@ -41,7 +41,7 @@ body {
     padding-right: 135px;
     margin-left: 200px;
     padding-top: 10px;
-    padding-bottom: 10px;
+        padding-bottom: 10px;
 
 }
 
@@ -69,3 +69,13 @@ body {
     padding-bottom: 10px;
 }
 
+.collections {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    color: white;
+    font-weight: 500;
+    font-size: 30px;
+    flex-direction: column;
+}
