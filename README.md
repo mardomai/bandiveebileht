@@ -41,9 +41,9 @@ Panime rollid paika, et kes teeb mida. Hendrik teeb home ja music pagei, Marelle
 2.Üks pehme oskus, mida õppisin ja endas arendasin. <br>
 3. Üks tehniline oskus, mida õppisin ja endas arendasin. <br> <br>
 <b>Vastab Kristo-Steven:</b><br>
-1.    <br>
-2.    <br>
-3.   <br>
+1. Oleks tahtnud veidi rohkem koodi kirjutada   <br>
+2. Suhtlemis oskus ja tiimi juhtimine   <br>
+3. Githubis projekti haldamine  <br>
 <b>Vastab Mardo: </b><br>
 1. Ei, ma arvan mul oli väga hea roll meeskonnas. Sain aidata teisi ja meelde tuletada vanilla HTMLi ja CSSi.<br>
 2. Ma ei tohi nii palju ropendada (kuigi Jasper ajab väga vihaseks)<br>
