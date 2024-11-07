@@ -1,10 +1,61 @@
+* {
+  padding: 0;
+  margin: 0;
+
+}
+header {
+  width: 100%;
+  height: 92px;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+a {
+  text-decoration: none;
+  font-weight: 500;
+  color: white;
+  font-size: 20px;
+  padding-left: 140px;
+  padding-right: 80px;
+
+}
+.logo {
+  padding: 10px;
+}
+
+.homebutton {
+  border-left: 2px rgb(99, 99, 99) solid;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.musicbutton {
+  border-left: 2px rgb(99, 99, 99) solid;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.tourbutton {
+  border-left: 2px rgb(99, 99, 99) solid;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.merchbutton {
+  border-left: 2px rgb(99, 99, 99) solid;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
 body {
     background: rgb(138,120,120);
     background: radial-gradient(circle, rgba(138,120,120,1) 14%, rgba(17,17,17,1) 100%);
     font-family: 'Inter';
-    padding: 40px;
 }
-
+.all{
+    column-count: 2;
+}
 .vertical {
     margin-left: 300px;
     border-left: 2px solid #7777;
@@ -75,10 +126,11 @@ button{
     color: white;
     margin: 10px;
     padding: 15px;
-    width: 700px;
+    width: 600px;
     border-radius: 12px;
     float: right;
-
+    display: flex;  
+  flex-wrap: wrap;
   }
   .thrid{
     background-color: #C182B8;

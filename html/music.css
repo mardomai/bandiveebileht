@@ -4,10 +4,10 @@
 }
 
 h2 {
-    color: black;
+    color: white;
     font-weight: bold;
-    background-color: #b66b6b;
-    border-color: #B66B6B;
+    background-color: #333;
+    border-color: #333;
     text-align: center;
     padding: 30px 120px 30px 120px;
     width: 70%;
@@ -131,4 +131,9 @@ footer {
     flex-direction: row;
     justify-content: space-between;
     padding: 10px;
+}
+
+.hits {
+    padding: 8rem;
+    gap: 12px;
 }
