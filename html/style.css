@@ -130,3 +130,18 @@ body {
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
+footer {
+    height: 70px;
+    background: black;
+    margin-top: 80px;
+}
+
+.footertext {
+    font-family: inter;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px;
+}
