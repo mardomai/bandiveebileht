@@ -53,9 +53,9 @@ Panime rollid paika, et kes teeb mida. Hendrik teeb home ja music pagei, Marelle
 2. <br>
 3. <br>
 <b>Vastab Marelle:</b> <br>
-1. <br>
-2. <br>
-3. <br>
+1. Ei, sain ülesanded, mis mulle meeldisid. <br>
+2. Õppisin olema meeskonnaliige. Ja samas ka julgem. Tegin tahvlile joonise ja kirjutasin, et kes mida teeks. <br>
+3. Õppisin kasutama HMTL ja CCS'i koos. Natuke sai jälle githubi ka <br>
 <b>Vastab Hendrik:</b> <br>
 1. <br>
 2. <br>
