@@ -1,0 +1,132 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background: rgb(12, 29, 30);
+    background: radial-gradient(circle, rgba(12, 29, 30, 1) 31%, rgba(7, 40, 53, 1) 100%);
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    overflow-x: hidden;
+}
+
+.content {
+    width: 90%;
+    max-width: 1200px;
+    margin: 50px auto;
+    padding: 20px;
+}
+
+
+.image-blurry-border {
+    max-width: 100%;
+    height: auto;
+    box-shadow: 0 0 25px 15px rgba(62, 150, 205, 0.337); 
+    border-radius: 10px; 
+}
+
+
+.text-section {
+    margin-bottom: 30px;
+    text-align: left;
+}
+
+h3 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+p {
+    font-size: 1.1em;
+    line-height: 1.6;
+    margin-bottom: 15px;
+    text-align: justify;
+}
+
+.quote {
+    font-size: 1.1em;
+    font-style: italic;
+    color: #ccc;
+    margin-top: 20px;
+}
+
+
+@media (max-width: 768px) {
+    h3 {
+        font-size: 1.6em;
+    }
+
+    p {
+        font-size: 1em;
+    }
+
+    .quote {
+        font-size: 1em;
+    }
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    width: 100%;
+    height: 92px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 500;
+    color: white;
+    font-size: 20px;
+    padding-left: 120px;
+}
+
+body {
+    background: rgb(12,29,30);
+    background: linear-gradient(90deg, rgba(12,29,30,1) 12%, rgba(7,40,53,1) 100%);
+    font-family: inter;
+    overflow-x: hidden;
+}
+
+.logo {
+    position: absolute;
+    top: 1.5px;
+    left: 3.25%;
+    padding: 10px;
+}
+
+.headbutton {
+    display: flex;
+    justify-content: center;
+}
+
+.homebutton {
+    border-left: 2px rgb(99, 99, 99) solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.musicbutton {
+    border-left: 2px rgb(99, 99, 99) solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.tourbutton {
+    border-left: 2px rgb(99, 99, 99) solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.merchbutton {
+    border-left: 2px rgb(99, 99, 99) solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
