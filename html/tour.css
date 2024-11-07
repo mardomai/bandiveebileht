@@ -4,7 +4,9 @@ body {
     font-family: 'Inter';
     padding: 40px;
 }
-
+.all{
+    column-count: 2;
+}
 .vertical {
     margin-left: 300px;
     border-left: 2px solid #7777;
@@ -37,7 +39,6 @@ button{
   }
   
   .flex-container > div {
-    background-color: ;
     margin: 10px;
     padding: 20px 10px 20px 10px;
     font-size: 15px;
@@ -76,10 +77,11 @@ button{
     color: white;
     margin: 10px;
     padding: 15px;
-    width: 700px;
+    width: 600px;
     border-radius: 12px;
     float: right;
-
+    display: flex;  
+  flex-wrap: wrap;
   }
   .thrid{
     background-color: #C182B8;
