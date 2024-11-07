@@ -137,3 +137,7 @@ footer {
     padding: 8rem;
     gap: 12px;
 }
+.text{
+    text-align: center;
+    column-count: 2;
+}

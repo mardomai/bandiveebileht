@@ -62,7 +62,6 @@ body {
     border-left: 2px solid #7777;
     height: 80px;
 }
-
 .buybutton{
 display: flex;
 justify-content: center;
@@ -81,6 +80,7 @@ button{
 
 .flex-container {
     display: flex;
+    justify-content: space-between;
     background-color: #333333;
     color: white;
     margin: 10px;
