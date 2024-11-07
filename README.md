@@ -61,9 +61,9 @@ Panime rollid paika, et kes teeb mida. Hendrik teeb home ja music pagei, Marelle
 2. <br>
 3. <br>
 <b>Vastab Jasper Jakob:</b> <br>
-1. <br>
-2. <br>
-3. <br>
+1. Ei, sest minu ülesanne oli minu võimu piiris. Ma sain rahulikult harjutada ja õppida uusi asju juurde. <br>
+2. Õppisin aja haldamist, sain aru, et prioriteedid peavad olema kohe alguses õiged, siis edeneb töö kõige paremini. <br>
+3. Tehniline oskus, mida endas arendasin, oli see, kuidas kiiresti, mugavalt ja töökorraselt uut koodi ja css-i kirjutada. See oli väga hea märk ja piir, kus ma nägin, kuidas ma seda teemat haldan. <br>
 <b>Vastab Raiko:</b> <br>
 1. <br>
 2. <br>
