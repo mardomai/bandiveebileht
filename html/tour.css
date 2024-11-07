@@ -37,7 +37,6 @@ button{
   }
   
   .flex-container > div {
-    background-color: ;
     margin: 10px;
     padding: 20px 10px 20px 10px;
     font-size: 15px;
@@ -173,4 +172,19 @@ body {
     border-left: 2px rgb(99, 99, 99) solid;
     padding-top: 10px;
     padding-bottom: 10px;
+}
+
+footer {
+  height: 70px;
+  background: black;
+  margin-top: 80px;
+}
+
+.footertext {
+  font-family: inter;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
 }
