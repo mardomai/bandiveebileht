@@ -1,0 +1,129 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+header {
+    width: 100%;
+    height: 92px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 500;
+    color: white;
+    font-size: 20px;
+    padding-left: 140px;
+    padding-right: 80px;
+
+}
+
+body {
+    background: rgb(12,29,30);
+    background: linear-gradient(90deg, rgba(12,29,30,1) 12%, rgba(7,40,53,1) 100%);
+    font-family: inter;
+    overflow-x: hidden;
+    min-height: 100vh;
+}
+
+.logo {
+    padding: 10px;
+}
+
+.headbutton {
+    display: flex;
+    justify-content: center;
+}
+
+.homebutton {
+    border-left: 2px rgb(99, 99, 99) solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.musicbutton {
+    border-left: 2px rgb(99, 99, 99) solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.tourbutton {
+    border-left: 2px rgb(99, 99, 99) solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.merchbutton {
+    border-left: 2px rgb(99, 99, 99) solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.collections {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    color: white;
+    font-weight: 500;
+    font-size: 30px;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.merchsection1header {
+    color: white;
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.merchsection1 {
+    width: fit-content;
+    height: fit-content;
+    padding: 5px;
+    border: none;
+    border-radius: 18px;
+    margin-top: 60px;
+    display: flex;
+    gap: 175px;
+}
+
+.men {
+    padding-left: 50px;
+    padding-top: 70px;
+    padding-bottom: 30px;
+    border-bottom: 2px rgb(99, 99, 99) solid;
+}
+
+.merchboxtext {
+    font-family: inter;
+    color: white;
+    font-size: 22px;
+    text-align: center;
+}
+
+footer {
+    height: 70px;
+    background: black;
+}
+
+.footertext {
+    font-family: inter;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.merchbox1 {
+    background: linear-gradient( rgb(18, 43, 45) 12%, rgba(7,40,53,1) 100%);
+    border: solid 2px rgb(80, 79, 79);
+    border-radius: 18px;
+    padding: 10px;
+}
