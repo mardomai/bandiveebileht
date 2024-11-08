@@ -22,27 +22,6 @@ a {
   padding-right: 80px;
 
 }
-.logo {
-  padding: 10px;
-}
-
-.homebutton {
-  border-left: 2px rgb(99, 99, 99) solid;
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
-
-.musicbutton {
-  border-left: 2px rgb(99, 99, 99) solid;
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
-
-.tourbutton {
-  border-left: 2px rgb(99, 99, 99) solid;
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
 
 .merchbutton {
   border-left: 2px rgb(99, 99, 99) solid;
@@ -64,18 +43,20 @@ body {
     background: radial-gradient(circle, rgba(138,120,120,1) 14%, rgba(17,17,17,1) 100%);
     font-family: 'Inter';
 }
+
 .all{
     column-count: 2;
 }
+
 .vertical {
     margin-left: 300px;
     border-left: 2px solid #7777;
     height: 80px;
 }
+
 .buybutton{
 display: flex;
 justify-content: center;
-
 }
 
 button{
@@ -104,13 +85,13 @@ button{
     font-size: 15px;
   }
   .number{
-    color: #FF0000
+    color: #FF0000;
   }
   .fire{
-    color: orange
+    color: orange;
   }
   .dollar{
-    color: lightgreen
+    color: lightgreen;
   }
   .usa{
   border-radius: 4px;
@@ -128,9 +109,11 @@ button{
     margin-right: auto;
     width: 100%;
   }
+
   h1{
     color:white;
   }
+
   .second{
     direction: column;
     background-color: #333333;
@@ -143,13 +126,14 @@ button{
     display: flex;  
   flex-wrap: wrap;
   }
+
   .thrid{
     background-color: #C182B8;
     color: white;
     margin: 10px;
     padding: 10px;
     width: 600px;
-    border-radius: 12px
+    border-radius: 12px;
   }
   .zero{
     display: block;
@@ -170,28 +154,6 @@ button{
     font-weight: bold;
    
   }
-
-* {
-    padding: 0;
-    margin: 0;
-}
-
-header {
-    width: 100%;
-    height: 92px;
-    background-color: black;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-}
-
-a {
-    text-decoration: none;
-    font-weight: 500;
-    color: white;
-    font-size: 20px;
-    padding-left: 120px;
-}
 
 body {
     background: rgb(12,29,30);
@@ -254,7 +216,7 @@ footer {
 
 @media (max-width: 768px) {
   #menu-toggle {
-      display: none;
+  display: none;
   }
   
   
@@ -325,4 +287,8 @@ footer {
   a {
       padding: 0px;
   }
+}
+
+a:hover {
+  font-weight: 500;
 }

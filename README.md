@@ -61,7 +61,7 @@ Avastasime päeva lõpus, et kui on vaja teha mobile wiev siis see tuleks teha e
 <b>Vastab Hendrik:</b> <br>
 1. Sain sellised ülesanded millega olin rahul. <br>
 2. Õppisin rohkem suhtlema ning kaasa mõtlema. <br>
-3. Õppisin githubi kasutama, õppisin CSSi kasutama, samuti sain HTMLis uusi teadmisi. <br>
+3. Õppisin githubi kasutama, õppisin CSSi kasutama, samuti sain HTMLis uusi teadmisi, burger menu tegemine. <br>
 <b>Vastab Jasper Jakob:</b> <br>
 1. Ei, sest minu ülesanne oli minu võimu piiris. Ma sain rahulikult harjutada ja õppida uusi asju juurde. <br>
 2. Õppisin aja haldamist, sain aru, et prioriteedid peavad olema kohe alguses õiged, siis edeneb töö kõige paremini. + peaks vähem ropendama (mardo oli probleem) <br>

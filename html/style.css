@@ -160,7 +160,6 @@ footer {
 }
 
 
-
 @media (max-width: 768px) {
     #menu-toggle {
         display: none;
@@ -234,4 +233,8 @@ footer {
     a {
         padding: 0px;
     }
+}
+
+a:hover {
+    font-weight: 500;
 }
