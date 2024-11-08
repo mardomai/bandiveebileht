@@ -160,12 +160,10 @@ footer {
 }
 
 
-
 @media (max-width: 768px) {
     #menu-toggle {
         display: none;
     }
-    
     
     .burger {
         display: flex;
@@ -183,7 +181,6 @@ footer {
         background-color: #ffffff;
         transition: 0.3s;
     }
-    
    
     .menu {
         display: none;
@@ -208,12 +205,10 @@ footer {
         font-size: 18px;
         font-family: inter;
     }
-    
-    
+   
     #menu-toggle:checked + .burger + .menu {
         display: block;
     }
-    
     
     #menu-toggle:checked + .burger span:nth-child(1) {
         transform: rotate(45deg) translate(5px, 5px);
@@ -234,4 +229,7 @@ footer {
     a {
         padding: 0px;
     }
+} 
+a:hover {
+    font-weight: 500;
 }

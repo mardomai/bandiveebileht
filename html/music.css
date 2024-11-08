@@ -198,8 +198,7 @@ footer {
     #menu-toggle {
         display: none;
     }
-    
-    
+   
     .burger {
         display: flex;
         flex-direction: column;
@@ -216,7 +215,6 @@ footer {
         background-color: #ffffff;
         transition: 0.3s;
     }
-    
    
     .menu {
         display: none;
@@ -267,4 +265,7 @@ footer {
     a {
         padding: 0px;
     }
+}  
+a:hover {
+    font-weight: 500;
 }
