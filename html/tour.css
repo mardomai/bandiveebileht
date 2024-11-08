@@ -47,22 +47,14 @@ body {
   padding: 10px;
 }
 
-.homebutton {
+.merchbutton {
   border-left: 2px rgb(99, 99, 99) solid;
   padding-top: 10px;
   padding-bottom: 10px;
 }
 
-.musicbutton {
-  border-left: 2px rgb(99, 99, 99) solid;
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
-
-.tourbutton {
-  border-left: 2px rgb(99, 99, 99) solid;
-  padding-top: 10px;
-  padding-bottom: 10px;
+.menu {
+  display: none;
 }
 
 .merchbutton {
@@ -71,16 +63,29 @@ body {
   padding-bottom: 10px;
 }
 
+#menu-toggle {
+  display: none;
+} 
+
+body {
+    background: rgb(138,120,120);
+    background: radial-gradient(circle, rgba(138,120,120,1) 14%, rgba(17,17,17,1) 100%);
+    font-family: 'Inter';
+}
+
+.all{
+    column-count: 2;
+}
 
 .vertical {
     margin-left: 300px;
     border-left: 2px solid #7777;
     height: 80px;
 }
+
 .buybutton{
 display: flex;
 justify-content: center;
-
 }
 
 button{
@@ -112,13 +117,13 @@ button{
     font-size: 15px;
   }
   .number{
-    color: #FF0000
+    color: #FF0000;
   }
   .fire{
-    color: orange
+    color: orange;
   }
   .dollar{
-    color: lightgreen
+    color: lightgreen;
   }
   .usa{
   border-radius: 4px;
@@ -136,9 +141,11 @@ button{
     margin-right: auto;
     width: 100%;
   }
+
   h1{
     color:white;
   }
+
   .second{
     direction: column;
     background-color: #333333;
@@ -155,13 +162,14 @@ button{
     text-align: left;
     
   }
+
   .thrid{
     background-color: #C182B8;
     color: white;
     margin: 10px;
     padding: 10px;
     width: 600px;
-    border-radius: 12px
+    border-radius: 12px;
   }
   .zero{
     display: block;
@@ -229,13 +237,226 @@ button{
     
   }
 
+body {
+    background: rgb(12,29,30);
+    background: linear-gradient(90deg, rgba(12,29,30,1) 12%, rgba(7,40,53,1) 100%);
+    font-family: inter;
+    overflow-x: hidden;
+}
 
+.headbutton {
+  text-decoration: none;
+  font-weight: 500;
+  color: white;
+  font-size: 20px;
+  padding-left: 140px;
+  padding-right: 80px;
+  display: flex;
+  justify-content: center;
+}
 
+.homebutton {
+  text-decoration: none;
+  font-weight: 500;
+  color: white;
+  font-size: 20px;
+  padding-left: 140px;
+  padding-right: 80px;
+  border-left: 2px rgb(99, 99, 99) solid;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
 
+.musicbutton {
+  text-decoration: none;
+  font-weight: 500;
+  color: white;
+  font-size: 20px;
+  padding-left: 140px;
+  padding-right: 80px;
+  border-left: 2px rgb(99, 99, 99) solid;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
 
+.tourbutton {
+  text-decoration: none;
+  font-weight: 500;
+  color: white;
+  font-size: 20px;
+  padding-left: 140px;
+  padding-right: 80px;
+  border-left: 2px rgb(99, 99, 99) solid;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
 
+.merchbutton {
+  text-decoration: none;
+  font-weight: 500;
+  color: white;
+  font-size: 20px;
+  padding-left: 140px;
+  padding-right: 80px;    
+  border-left: 2px rgb(99, 99, 99) solid;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
 
+footer {
+  width: 100%;
+  height: 100%;
+  background: black;
+  margin-top: 80px;
+  border-top: 1px solid rgb(86, 86, 86);
+}
 
+.footertext {
+  font-family: inter;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding: 10px;
+  padding-top: 40px;
+}
 
+a {
+  font-family: inter;
+  font-weight: 400;
+  color: rgb(173, 173, 173);
+  text-decoration: none;
+}
 
+@media (max-width: 768px) {
+  #menu-toggle {
+  display: none;
+  }
+  
+  
+  .burger {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      width: 30px;
+      height: 25px;
+      cursor: pointer;
+      margin: 20px;
+  }
+  
+  .burger span {
+      width: 100%;
+      height: 3px;
+      background-color: #ffffff;
+      transition: 0.3s;
+  }
+  
+ 
+  .menu {
+      display: none;
+      background-color: #0c1d1e;
+      position: absolute;
+      top: 60px;
+      width: 100%;
+      text-align: center;
+  }
+  
+  .menu ul {
+      list-style: none;
+  }
+  
+  .menu ul li {
+      padding: 10px;
+  }
+  
+  .menu ul li a {
+      color: white;
+      text-decoration: none;
+      font-size: 18px;
+      font-family: inter;
+  }
+  
+  
+  #menu-toggle:checked + .burger + .menu {
+      display: block;
+  }
+  
+  
+  #menu-toggle:checked + .burger span:nth-child(1) {
+      transform: rotate(45deg) translate(5px, 5px);
+  }
+  
+  #menu-toggle:checked + .burger span:nth-child(2) {
+      opacity: 0;
+  }
+  
+  #menu-toggle:checked + .burger span:nth-child(3) {
+      transform: rotate(-45deg) translate(5px, -5px);
+  }
 
+  header {
+      display: none;
+  }
+
+  a {
+      padding: 0px;
+  }
+}
+
+a:hover {
+  font-weight: 900;
+  color: rgb(1, 165, 194);
+}
+
+.copyright {
+  padding-right: 50px;
+}
+
+.contact {
+  padding-right: 40px;
+  padding-left: 15px;
+}
+
+.terms {
+  padding-right: 35px;
+  padding-left: 15px;
+}
+
+.privacy {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.disc {
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
+.yout {
+  padding-right: 30px;
+  padding-left: 5px;
+}
+
+.spot {
+  padding-left: 15px;
+}
+
+.homebutton:hover {
+  font-weight: 800;
+  color: rgb(1, 165, 194);
+}
+
+.musicbutton:hover {
+  font-weight: 800;
+  color: rgb(1, 165, 194);
+}
+
+.tourbutton:hover {
+  font-weight: 800;
+  color: rgb(1, 165, 194);
+}
+
+.merchbutton:hover {
+  font-weight: 800;
+  color: rgb(1, 165, 194);
+}
