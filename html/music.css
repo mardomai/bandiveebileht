@@ -140,7 +140,45 @@ footer {
     padding: 8rem;
     gap: 12px;
 }
+
 .text{
     text-align: center;
     column-count: 2;
+}
+
+@media (max-width: 768px) {
+    h2 {
+        padding: 20px 60px;
+        width: 70%;
+    }
+
+    a {
+        padding-left: 20px;
+        padding-right: 20px;
+        font-size: 18px;
+    }
+
+    header {
+        flex-direction: column;
+        height: auto;
+    }
+
+}
+
+@media (max-width: 480px) {
+    h2 {
+        padding: 10px 30px;
+        width: 70%;
+    }
+
+    a {
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: 16px;
+    }
+
+    header {
+        flex-direction: column;
+        height: auto;
+    }
 }
