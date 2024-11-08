@@ -37,7 +37,7 @@ Avastasime päeva lõpus, et kui on vaja teha mobile wiev siis see tuleks teha e
 
 
 <h1>Kolmas päev 08.11.24</h1> <br>
-
+Marelle,Hendrik ja Jasper vaatasid lehe üle. Tuvastasid vead ja hakkasid neid parandama. Silvio, Kristo,Steven aitasid kui oli vaja.
 <h2>Küsimused</h2>
 1.Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas? <br>
 2.Üks pehme oskus, mida õppisin ja endas arendasin. <br>
