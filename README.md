@@ -52,7 +52,7 @@ Marelle,Hendrik ja Jasper vaatasid lehe üle. Tuvastasid vead ja hakkasid neid p
 3.Õppisin kuidas  branchid täpselt töötavad ja kuidas Github Pull requestid töötavad.<br> 
 <b>Vastab Silvio:</b> <br>
 1. Nah, ma olen täiesti rahul sellega, mis mul oli<br>
-2. Püüdis neid juhendada ja aidata<br>
+2. Püüdsin meeskonda juhendada ja aidata koodig, lugedes seda läbi ja ütlesin kus on viga<br>
 3. Peab READ ME käsitsi salvestama, automaatset salvestamist pole<br>
 <b>Vastab Marelle:</b> <br>
 1. Ei, sain ülesanded, mis mulle meeldisid. <br>
