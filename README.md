@@ -48,7 +48,7 @@ Avastasime päeva lõpus, et kui on vaja teha mobile wiev siis see tuleks teha e
 <b>Vastab Mardo: </b><br>
 1. Ei, ma arvan mul oli väga hea roll meeskonnas. Sain aidata teisi ja meelde tuletada vanilla HTMLi ja CSSi.<br>
 2. Ma ei tohi nii palju ropendada (kuigi Jasper ajab väga vihaseks)<br>
-3.Et teha mobile view esimese asjana<br> 
+3.Õppisin kuidas  branchid täpselt töötavad ja kuidas Github Pull requestid töötavad.<br> 
 <b>Vastab Silvio:</b> <br>
 1. <br>
 2. <br>
