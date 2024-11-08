@@ -22,38 +22,7 @@ a {
   padding-right: 80px;
 
 }
-.logo {
-  padding: 10px;
-}
 
-.homebutton {
-  border-left: 2px rgb(99, 99, 99) solid;
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
-
-.musicbutton {
-  border-left: 2px rgb(99, 99, 99) solid;
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
-
-.tourbutton {
-  border-left: 2px rgb(99, 99, 99) solid;
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
-
-.merchbutton {
-  border-left: 2px rgb(99, 99, 99) solid;
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
-body {
-    background: rgb(138,120,120);
-    background: radial-gradient(circle, rgba(138,120,120,1) 14%, rgba(17,17,17,1) 100%);
-    font-family: 'Inter';
-}
 .all{
     column-count: 2;
 }
@@ -161,28 +130,6 @@ button{
    
   }
 
-* {
-    padding: 0;
-    margin: 0;
-}
-
-header {
-    width: 100%;
-    height: 92px;
-    background-color: black;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-}
-
-a {
-    text-decoration: none;
-    font-weight: 500;
-    color: white;
-    font-size: 20px;
-    padding-left: 120px;
-}
-
 body {
     background: rgb(12,29,30);
     background: linear-gradient(90deg, rgba(12,29,30,1) 12%, rgba(7,40,53,1) 100%);
@@ -240,4 +187,8 @@ footer {
   flex-direction: row;
   justify-content: space-between;
   padding: 10px;
+}
+
+a:hover {
+  font-weight: 500;
 }

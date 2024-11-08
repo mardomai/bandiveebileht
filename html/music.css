@@ -182,3 +182,8 @@ footer {
         height: auto;
     }
 }
+
+
+a:hover {
+    font-weight: 500;
+}
