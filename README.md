@@ -51,9 +51,9 @@ Marelle,Hendrik ja Jasper vaatasid lehe üle. Tuvastasid vead ja hakkasid neid p
 2. Ma ei tohi nii palju ropendada (kuigi Jasper ajab väga vihaseks)<br>
 3.Õppisin kuidas  branchid täpselt töötavad ja kuidas Github Pull requestid töötavad.<br> 
 <b>Vastab Silvio:</b> <br>
-1. <br>
-2. <br>
-3. <br>
+1. Nah, ma olen täiesti rahul sellega, mis mul oli<br>
+2. Püüdis neid juhendada ja aidata<br>
+3. Peab READ ME käsitsi salvestama, automaatset salvestamist pole<br>
 <b>Vastab Marelle:</b> <br>
 1. Ei, sain ülesanded, mis mulle meeldisid. <br>
 2. Õppisin olema meeskonnaliige. Ja samas ka julgem. Tegin tahvlile joonise ja kirjutasin, et kes mida teeks. <br>
