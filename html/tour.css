@@ -13,6 +13,39 @@ header {
   justify-content: space-around;
 }
 
+a {
+  text-decoration: none;
+  font-weight: 500;
+  color: white;
+  font-size: 20px;
+  padding-left: 140px;
+  padding-right: 80px;
+}
+
+body {
+  background: rgb(12,29,30);
+  background: linear-gradient(90deg, rgba(12,29,30,1) 12%, rgba(7,40,53,1) 100%);
+  font-family: inter;
+  overflow-x: hidden;
+  color: #ffffff;
+}
+
+.logo {
+    position: absolute;
+    top: 1.5px;
+    left: 3.25%;
+    padding: 10px;
+}
+
+.headbutton {
+    display: flex;
+    justify-content: center;
+}
+
+
+.logo {
+  padding: 10px;
+}
 
 .merchbutton {
   border-left: 2px rgb(99, 99, 99) solid;
@@ -24,6 +57,11 @@ header {
   display: none;
 }
 
+.merchbutton {
+  border-left: 2px rgb(99, 99, 99) solid;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
 
 #menu-toggle {
   display: none;
@@ -59,7 +97,10 @@ button{
     width: 100px;
     height: 50px;
 }
-
+.menu{
+  float: left;
+  width: 20%;
+}
 .flex-container {
     display: flex;
     justify-content: space-between;
@@ -110,12 +151,16 @@ button{
     background-color: #333333;
     color: white;
     margin: 10px;
-    padding: 15px;
+    padding: 40px;
     width: 600px;
     border-radius: 12px;
-    float: right;
     display: flex;  
-  flex-wrap: wrap;
+    flex-wrap: wrap;
+    float: right;
+    width: 20%;
+    margin-top: 7px;
+    text-align: left;
+    
   }
 
   .thrid{
@@ -140,10 +185,56 @@ button{
   margin-left: auto;
   display: block;
   }
+
   .head{
     font-size: 20px;
     font-weight: bold;
    
+  }
+  footer {
+  height: 70px;
+  background: black;
+  margin-top: 80px;
+  }
+
+  .footertext {
+  font-family: inter;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+  }
+  @media (max-width: 768px){
+    a{
+      padding: 20px 60px;
+      width: 70%;
+    }
+    
+    header{
+      flex-direction: column;
+      height: auto;
+    }
+    
+    .second{
+      width: 100%;
+    }
+  }
+  @media (max-width: 480px) {
+    a{
+      padding-left: 10px;
+      padding-right: 10px;
+      font-size: 16px;
+    }
+    header{
+      flex-direction: column;
+      height: auto;
+    }
+    
+    .second{
+      width: 100%;
+    }
+    
   }
 
 body {
@@ -151,13 +242,6 @@ body {
     background: linear-gradient(90deg, rgba(12,29,30,1) 12%, rgba(7,40,53,1) 100%);
     font-family: inter;
     overflow-x: hidden;
-}
-
-.logo {
-    position: absolute;
-    top: 1.5px;
-    left: 3.25%;
-    padding: 10px;
 }
 
 .headbutton {

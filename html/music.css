@@ -238,10 +238,18 @@ a:hover {
     padding: 8rem;
     gap: 12px;
 }
-
+.songlist{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
 .text{
     text-align: center;
-    column-count: 2;
+    float: left;
+  
+}
+.text2{
+text-align: center;
 }
 
 @media (max-width: 768px) {
@@ -260,6 +268,16 @@ a:hover {
         flex-direction: column;
         height: auto;
     }
+
+    .songlist{
+        display: flex;
+        flex-direction:row;
+        justify-content: space-evenly;
+        font-size: 10px;
+        width: max-content;
+        align-items: center;
+    }
+
 }
 
 @media (max-width: 480px) {
@@ -278,7 +296,16 @@ a:hover {
         flex-direction: column;
         height: auto;
     }
+
+    .songlist{
+        display: flex;
+        flex-direction:row;
+        font-size: 10px;
+        width: max-content;
+    }
+    
 }
+
 
 @media (max-width: 768px) {
     #menu-toggle {
